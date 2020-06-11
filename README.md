@@ -35,6 +35,7 @@ import 'package:HaltonBusAPI/HaltonBusAPI.dart';
       api...
     }
 ```
+
 Examples can be found [here][examples].
 
 ## Documentation
